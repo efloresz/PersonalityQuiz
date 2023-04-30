@@ -1,6 +1,7 @@
 # PersonalityQuiz
 
 An interactice webpage determines if user is a morning or nigh person.
+Created on August 24, 2022
 
 # What I Learned
 
@@ -16,3 +17,4 @@ An interactice webpage determines if user is a morning or nigh person.
 * Design Principles: I learned some basic design principles, such as color theory, typography, and layout, that can help you create a visually appealing and user-friendly website.
 
 * Problem Solving: I developed problem-solving skills while creating my website, such as fixing bugs or troubleshooting issues with my code related to button functionality.
+
