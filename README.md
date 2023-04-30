@@ -1,55 +1,18 @@
-# Personality Quiz Starter Code
-
-This is a place for you to start building your personality quiz!
-
-### Project Requirements
-Your project should:
-- Have at least three questions.
-- Have at least two answers to each question that correspond to the quiz outcomes.
-- Allow a person to select an answer by clicking a button.
-- Display different outcomes for different combinations of answer selections.
-
-
-### Extensions
-You can extend your project further by:
-- Adding more questions to your quiz.
-- Customizing the look and feel with CSS.
-- Allow a person to restart the quiz by clicking a button.
-- Creating a button to update result instead of having it display unprompted.
-- Disabling buttons after a person selects an answer.
-
-
-### Image Attributions
-*Tell us where you found the image you are using! Make sure it is in the public domain, has a license that allows you to use it, or is one you took on your own. Check out [archive.org](https://archive.org/), [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/), or [Burst](https://burst.shopify.com/) for free, uncopyrighted images.*
-- [Espresso](https://pixabay.com/photos/coffee-espresso-short-cup-mug-731330/)
-- [Matcha latte](https://pixabay.com/photos/matcha-green-tea-latt%C3%A9-heart-2683990/)
-- [Chocolate Croissant](https://pixabay.com/photos/chocolate-croissant-bakery-hunger-4840779/)
-- [Egg Sammy](https://pixabay.com/photos/bacon-egg-and-cheese-2834906/)
-- [Bed](https://pixabay.com/photos/bed-pillows-headboard-bedroom-2167288/)
-- [Window](https://pixabay.com/photos/window-window-seat-cushions-2227301/)
-
----
-
-## File Overview
-
-### ← README.md
-
-That's this file. This is the place to tell people more about what your website does and how you built it. 
-
-### ← index.html
-
-HTML files are for content! Add your text, images, buttons, and more using HTML tags.
-
-### ← style.css
-
-CSS files add styling rules to your content like changing colors and fonts. 
-
-### ← script.js
-
-JavaScript files add interactivity to your website using code. This is where you can listen for events, then take an action.
-
-### ← assets
-
-Drag in assets, like images or music, to add them to your project. You do not need to add anything to this folder unless you are working on the extensions. If you are adding an image, it is best to save it to your computer, then upload the file to the `assets` folder. The url of the image will be `assets/example.jpg`.
 # PersonalityQuiz
-# PersonalityQuiz
+
+An interactice webpage determines if user is a morning or nigh person.
+
+# What I Learned
+
+* HTML and CSS: I learned how to structure a webpage using HTML tags and style it using CSS properties, such as designing buttons and layouts.
+* JavaScript: I learned how to use JavaScript to add interactivity to my website, such as creating buttons that trigger different actions and events based on user inputs.
+
+* Button Functionality: I learned how to create buttons that correspond to specific answers or choices in a personality quiz, allowing users to select their preferences.
+
+* Responsive Design: I learned how to create a website that looks good on different devices, such as desktops, tablets, and smartphones, including designing buttons that work on touchscreens.
+
+* Web Hosting: I learned how to deploy my website to a web host, such as GitHub Pages or Replit, so that it can be accessed by others on the internet.
+
+* Design Principles: I learned some basic design principles, such as color theory, typography, and layout, that can help you create a visually appealing and user-friendly website.
+
+* Problem Solving: I developed problem-solving skills while creating my website, such as fixing bugs or troubleshooting issues with my code related to button functionality.
