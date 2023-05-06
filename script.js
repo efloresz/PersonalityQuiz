@@ -40,7 +40,6 @@ questionCount += 1;
 
   console.log("questionCount = " + questionCount + "morningScore = " + morningScore);
 
-
   if (questionCount == 3) {
   console.log("The quiz is done!")
     updateResult();
