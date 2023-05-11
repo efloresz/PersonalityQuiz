@@ -1,7 +1,6 @@
 # PersonalityQuiz
 
-An interactice webpage determines if user is a morning or nigh person.
-Created on August 24, 2022
+An interactice webpage determines if user is a morning or night person.
 
 # Purpose
 * The program tracks the user's scores and updates the result accordingly. This program demonstrates proficiency in using HTML and JavaScript to create interactive web applications, as well as the ability to use DOM manipulation to dynamically update the user interface based on user input. 
@@ -20,4 +19,7 @@ Created on August 24, 2022
 * Design Principles: I learned some basic design principles, such as color theory, typography, and layout, that can help you create a visually appealing and user-friendly website.
 
 * Problem Solving: I developed problem-solving skills while creating my website, such as fixing bugs or troubleshooting issues with my code related to button functionality.
-
+``` 
+Analysis:
+~ Created 08/24/22
+~ Status: Completed
