@@ -4,6 +4,15 @@ An interactice webpage determines if user is a morning or night person.
 
 # Purpose
 * The program tracks the user's scores and updates the result accordingly. This program demonstrates proficiency in using HTML and JavaScript to create interactive web applications, as well as the ability to use DOM manipulation to dynamically update the user interface based on user input. 
+<p>
+  <img width="913" alt="Screen Shot 2023-05-14 at 8 37 16 PM" src="https://github.com/efloresz/PersonalityQuiz/assets/110843762/3b2303c6-40d4-42bf-8fbe-d28de5b6fe79">
+  
+<img width="910" alt="Screen Shot 2023-05-14 at 8 40 23 PM" src="https://github.com/efloresz/PersonalityQuiz/assets/110843762/c3fabee1-1009-4878-98ad-75bd1a329f9b">
+  </p>
+  
+<p>
+  <a href="https://emilys-personality-quiz.emilyflores6.repl.co/">https://emilys-personality-quiz.emilyflores6.repl.co/</a>
+</p>
 
 # What I Learned
 
